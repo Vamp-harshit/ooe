@@ -1,4 +1,2 @@
-### Demo
-
-https://code-sync.codersgyan.com/
-"# collaborative-code-editor" 
+npm install -y
+npm run start
